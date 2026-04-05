@@ -60,12 +60,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manisht92&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=manisht92&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manisht92&theme=tokyonight" width="95%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manisht92&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manisht92&theme=tokyonight" width="32%"/>
+  <img src="https://streak-stats.demolab.com/?user=manisht92&theme=tokyonight&hide_border=true" width="34%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manisht92&theme=tokyonight" width="30%"/>
 </p>
 
 ---
@@ -99,7 +100,7 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manisht92&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manisht92&theme=tokyo-night&hide_border=true&area=true&custom_title=Manish's%20Contribution%20Graph" width="95%"/>
 </p>
 
 ---
